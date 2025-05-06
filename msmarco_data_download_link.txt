@@ -1,0 +1,4 @@
+https://microsoft.github.io/msmarco/Datasets.html
+
+msmarco_doc_reranking/msmarco-doctrain-queries.tsv has the query ids and query texts
+msmarco_doctrain_top100 has the query id and the linked docid. It has the top 100 docids for each qid
